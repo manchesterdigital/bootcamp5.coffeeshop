@@ -15,3 +15,9 @@ C:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
 C:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
 C:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
 C:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop\obj\Debug\CoffeeShop.pdb

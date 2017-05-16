@@ -26,3 +26,17 @@ C:\CoffeeShop\CoffeeShop.UnitTests\bin\Debug\nunit.framework.xml
 C:\CoffeeShop\CoffeeShop.UnitTests\obj\Debug\CoffeeShop.UnitTests.csprojResolveAssemblyReference.cache
 C:\CoffeeShop\CoffeeShop.UnitTests\obj\Debug\CoffeeShop.UnitTests.dll
 C:\CoffeeShop\CoffeeShop.UnitTests\obj\Debug\CoffeeShop.UnitTests.pdb
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\CoffeeShop.UnitTests.dll
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\CoffeeShop.UnitTests.pdb
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\Castle.Core.dll
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\CoffeeShop.exe
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\Moq.dll
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\nunit.framework.dll
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\CoffeeShop.pdb
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\CoffeeShop.exe.config
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\Castle.Core.xml
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\Moq.xml
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\bin\Debug\nunit.framework.xml
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\obj\Debug\CoffeeShop.UnitTests.csprojResolveAssemblyReference.cache
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\obj\Debug\CoffeeShop.UnitTests.dll
+C:\Bootcamp5.CoffeeShop\CoffeeShop.csharp\CoffeeShop.UnitTests\obj\Debug\CoffeeShop.UnitTests.pdb
